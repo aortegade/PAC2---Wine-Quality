@@ -10,29 +10,29 @@ Dataset obtenido en https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2
 Variables:
 El dataset está compuesto por las siguientes variables:
 
-**fixed.acidity**: ácido tartárico (g/dm3).
+1. **fixed.acidity**: ácido tartárico (g/dm3).
 
-**volatile.acidity**: ácido acético (g/dm3).
+2. **volatile.acidity**: ácido acético (g/dm3).
 
-**citric.acidity**: ácido cítrico (g/dm3).
+3. **citric.acidity**: ácido cítrico (g/dm3).
 
-**residual.sugar**: azúcar (g/dm3)
+4. **residual.sugar**: azúcar (g/dm3)
 
-**chlorides**: clorito sódico (g/dm3).
+5. **chlorides**: clorito sódico (g/dm3).
 
-**free.sulphur.dioxide**: dióxido de sulfato libre (g/dm3).
+6. **free.sulphur.dioxide**: dióxido de sulfato libre (g/dm3).
 
-**total.sulphur.dioxide**: dióxido de sulfato total (g/dm3).
+7. **total.sulphur.dioxide**: dióxido de sulfato total (g/dm3).
 
-**density**: densidad (g/cm3).
+8. **density**: densidad (g/cm3).
 
-**pH**: nivel de pH del vino.
+9. **pH**: nivel de pH del vino.
 
-**sulphates**: sulfato potásico (g/dm3).
+10. **sulphates**: sulfato potásico (g/dm3).
 
-**alcohol**: porcentaje de alcohol.
+11. **alcohol**: porcentaje de alcohol.
 
-**quality**: calidad (de 0 a 10).
+12. **quality**: calidad (de 0 a 10).
 
 Siendo *quality* la variable objetivo.
 
